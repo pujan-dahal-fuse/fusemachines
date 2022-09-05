@@ -1,5 +1,7 @@
 Getting started with github.
 Just created a new file to learn git commands.
+Kathmandu
 Added new line here.
 Hetauda
 Montana
+Pokhara
