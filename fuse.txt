@@ -1,0 +1,2 @@
+Getting started with github.
+Just created a new file to learn git commands.
